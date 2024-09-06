@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Issaíne Neftaly Mendoza Vázquez",
+    "label": "Software Architect",
+    "image": "",
+    "email": "mendozaissai@gmail.com",
+    "phone": "+52 55 8431 2118",
+    "summary": "Arquitecto de Software con más de 4 años de experiencia en el diseño y desarrollo de soluciones web. Experto en la migración de aplicaciones a la nube y en la implementación de arquitecturas escalables y optimizadas. Apasionado por la investigación de nuevas tecnologías que mejoran la eficiencia del desarrollo y la calidad del software.",
+    "location": {
+      "address": "Azcapotzalco",
+      "postalCode": "02000",
+      "city": "Ciudad de México",
+      "countryCode": "MX",
+      "region": "CDMX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Issaíne Mendoza",
+        "url": "https://linkedin.com/in/issai"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NetLogistik",
+      "position": "Software Architect",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
+      "summary": "Lideré la migración de aplicaciones monolíticas a microservicios en la nube, optimizando la eficiencia de los sistemas y mejorando el rendimiento.",
+      "highlights": [
+        "Implementé CI/CD, mejorando los tiempos de entrega de software.",
+        "Reduje el tiempo de respuesta en un 20% mediante la optimización de recursos."
+      ]
+    },
+    {
+      "name": "Consucorp",
+      "position": "Desarrollador Fullstack",
+      "startDate": "2021-03-01",
+      "endDate": "2023-03-01",
+      "summary": "Desarrollé y mantuve una plataforma de pagos utilizando Angular y PHP, optimizando su rendimiento y mejorando la experiencia del usuario.",
+      "highlights": [
+        "Reduje el tiempo de carga de la aplicación en un 40%.",
+        "Colaboré en la corrección de problemas críticos, mejorando la estabilidad del sistema en un 15%."
+      ]
+    },
+    {
+      "name": "Platimex",
+      "position": "Desarrollador Fullstack",
+      "startDate": "2020-03-01",
+      "endDate": "2021-03-01",
+      "summary": "Migré aplicaciones monolíticas a arquitecturas de microservicios utilizando tecnologías modernas como React, Angular, PHP y Python.",
+      "highlights": [
+        "Lideré la creación de un e-commerce que aumentó las ventas en línea en un 25%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ESCOM, IPN",
+      "area": "Ingeniería en Sistemas Computacionales",
+      "studyType": "Bachelor",
+      "startDate": "2018-01-01",
+      "endDate": "2022-12-01",
+      "score": "",
+      "courses": [
+        "Desarrollo de una plataforma de gestión de proyectos con Angular y PHP"
+      ]
+    },
+    {
+      "institution": "CECyT 14, IPN",
+      "area": "Técnico en Informática",
+      "studyType": "Technical Degree",
+      "startDate": "2014-01-01",
+      "endDate": "2017-12-01",
+      "score": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "date": "2022-05-01",
+      "issuer": "Amazon Web Services"
+    },
+    {
+      "name": "Scrum Master Certified",
+      "date": "2021-03-01",
+      "issuer": "Scrum Alliance"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Expert",
+      "keywords": [
+        "Angular",
+        "React",
+        "PHP",
+        "Python",
+        "TypeScript",
+        "SQL",
+        "NoSQL",
+        "Docker",
+        "Git",
+        "AWS",
+        "Azure",
+        "CI/CD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Migración a Microservicios",
+      "startDate": "2022-05-01",
+      "endDate": "2022-12-01",
+      "description": "Lideré la migración de aplicaciones monolíticas a microservicios en la nube para optimizar la eficiencia y escalabilidad.",
+      "highlights": [
+        "Optimización de recursos en la nube, reduciendo los costos en un 15%."
+      ]
+    }
+  ]
+}
